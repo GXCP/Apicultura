@@ -1,3 +1,8 @@
 .cabecalho{
     background-color: var(--cor-de-fundo);
+    color: var(--cor-de-fonte);
+}
+.cabecalho--menu-hamburger{
+    height: 24px;
+    width: 24px;
 }
