@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: red;
+    background-color:var(--cor-de-fundo);
     color: var(--cor-de-fonte);
 }
 .cabecalho--menu-hamburguer{
