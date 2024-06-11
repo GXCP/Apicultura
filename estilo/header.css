@@ -3,8 +3,8 @@
     color: var(--cor-de-fonte);
 }
 .cabecalho--menu-hamburger{
-    height: 24px;
-    width: 24px;
+    height: 240px;
+    width: 240px;
     background-repeat: no-repeat;
     background-position: center;
     background-image:url("../img/barras.png");
