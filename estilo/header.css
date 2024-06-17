@@ -1,6 +1,9 @@
 .cabecalho{
     background-color:var(--cor-de-fundo);
     color: var(--cor-de-fonte);
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
 }
 .cabecalho--menu-hamburguer{
     height: 40px;
