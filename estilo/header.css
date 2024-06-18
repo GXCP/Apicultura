@@ -6,8 +6,8 @@
     justify-content: space-between;
 }
 .cabecalho--menu-hamburguer{
-    height: 250px;
-    width: 400px;
+    height: 512px;
+    width: 512px;
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
