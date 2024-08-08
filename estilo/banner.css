@@ -17,3 +17,9 @@ display: flex;
     margin-left: 55px;
 
 }
+.textos img{
+    display: flex;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
