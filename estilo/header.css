@@ -2,7 +2,8 @@
     background-color:var(--cor-de-fundo);
     color: var(--cor-de-fonte);
     font-size: 18px;
-    display: flex;
+    display: grid;
+    grid-template-columns: 10% 90%;
     justify-content: space-between;
 }
 .cabecalho--menu-hamburguer{
@@ -18,4 +19,7 @@
     width: 150px;
     margin-right: 100px;
 
+}
+.cabecalho--botao{
+    display: none;
 }
