@@ -23,3 +23,9 @@
 .cabecalho--botao{
     display: none;
 }
+
+@media(min-width:1024px){
+    .logo{
+        100px
+    }
+}
