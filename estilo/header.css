@@ -28,6 +28,8 @@
     .logo{
         width: 600px;
         margin-left: 425px;
-    
+    }
+    .banner {
+        font-size: 70px;
     }
 }
