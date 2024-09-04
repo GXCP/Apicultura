@@ -28,3 +28,9 @@ display: flex;
     display: flex;
     margin-left: 20px;
 }
+.lista h1{
+    margin-bottom: 10px;
+}
+.lista p{
+    margin-bottom: 10px;
+}
