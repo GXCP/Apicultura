@@ -30,7 +30,5 @@ display: flex;
 }
 .lista h1{
     margin-bottom: 10px;
-}
-.lista p{
-    margin-bottom: 10px;
+    margin-top: 10px;
 }
