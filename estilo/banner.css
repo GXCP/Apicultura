@@ -26,9 +26,6 @@ display: flex;
 .textos p{
     font-size: 20px;
     display: flex;
-    margin-left: 20px;
+    margin-left: 15px;
 }
-.textos h1{
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
+
