@@ -31,7 +31,12 @@ display: flex;
 
 @media(min-width:1024px){
    
+    .textos img {
+        height: 250px;
+        width: 250px;
+    }
     .textos p{
         font-size: 30px;
+    
     }
 }
