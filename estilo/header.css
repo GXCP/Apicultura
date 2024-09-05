@@ -36,4 +36,8 @@
     .textos {
         font-size: 30px;
     }
+    .textos img {
+        height: 200px;
+        width: 200px;
+    }
 }
