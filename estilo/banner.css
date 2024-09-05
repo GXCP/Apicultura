@@ -32,6 +32,6 @@ display: flex;
 @media(min-width:1024px){
    
     .textos p{
-        font-size: 100px;
+        font-size: 30px;
     }
 }
