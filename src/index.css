@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 6% 12%;
+    --foreground: 210 40% 93%;
+    --card: 210 6% 15%;
+    --card-foreground: 210 40% 93%;
+    --popover: 210 6% 15%;
+    --popover-foreground: 210 40% 93%;
+    --primary: 16 68% 51%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 6% 20%;
+    --secondary-foreground: 210 40% 93%;
+    --muted: 210 6% 18%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 16 68% 51%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 210 6% 22%;
+    --input: 210 6% 22%;
+    --ring: 16 68% 51%;
+    --chart-1: 16 68% 51%;
+    --chart-2: 210 40% 60%;
+    --chart-3: 210 6% 50%;
+    --chart-4: 16 68% 65%;
+    --chart-5: 210 20% 45%;
+    --radius: 0.25rem;
+    --sidebar-background: 210 6% 10%;
+    --sidebar-foreground: 210 40% 93%;
+    --sidebar-primary: 16 68% 51%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 210 6% 18%;
+    --sidebar-accent-foreground: 210 40% 93%;
+    --sidebar-border: 210 6% 22%;
+    --sidebar-ring: 16 68% 51%;
+
+    --font-heading: 'Inter', sans-serif;
+    --font-mono: 'IBM Plex Mono', monospace;
+  }
+
+  .dark {
+    --background: 210 6% 12%;
+    --foreground: 210 40% 93%;
+    --card: 210 6% 15%;
+    --card-foreground: 210 40% 93%;
+    --popover: 210 6% 15%;
+    --popover-foreground: 210 40% 93%;
+    --primary: 16 68% 51%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 6% 20%;
+    --secondary-fo
